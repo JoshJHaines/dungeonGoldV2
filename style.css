@@ -2,6 +2,8 @@
     background-color: grey;
     width: 100vw;
     height: 100vh;
+    margin: 0px;
+    padding: 0px;
 }
 
 .header-bar {
@@ -9,6 +11,10 @@
     color: red;
     width: 98vw;
     height: auto;
+    display: flex;
+}
+.header-right {
+    align-items: flex-end;
 }
 
 .main-body {
