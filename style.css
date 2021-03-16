@@ -1,0 +1,21 @@
+.container {
+    background-color: grey;
+    width: 100vw;
+    height: 100vh;
+}
+
+.header-bar {
+    background-color: hotpink;
+    width: 98vw;
+    height: 10px;
+}
+
+.main-body {
+    background-color: red;
+}
+
+.footer {
+    background-color:blue;
+    width: 98vw;
+    height: 10px;
+}
